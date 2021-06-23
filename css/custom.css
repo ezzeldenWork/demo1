@@ -1,0 +1,9 @@
+.select2-container {
+  width: 100% !important;
+}
+
+.justify-between {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
